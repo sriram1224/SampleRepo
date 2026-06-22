@@ -12,6 +12,8 @@ public class Calculator {
         return  a>b?a-b:b-a;
     }
     public int div(int a , int b){
-        return  a/b;
+        return  a/b;}
+    public int adding2(int a, int b){
+        return a+b;
     }
 }
