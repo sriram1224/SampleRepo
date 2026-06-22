@@ -11,4 +11,7 @@ public class Calculator {
     public int sub(int a , int b){
         return  a>b?a-b:b-a;
     }
+    public int div(int a , int b){
+        return  a/b;
+    }
 }
